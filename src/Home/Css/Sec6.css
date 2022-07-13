@@ -1,0 +1,41 @@
+.sce6{
+    height: 1000px;
+}
+.win{
+    border: 2px solid red;
+    height: 500px;
+    margin: 0 20px;
+}
+.damn{
+    padding: 0 120px;
+    margin-top: 50px;
+}
+.h3{
+    color: black;
+    font-size: 52px;
+    font-weight:600 ;
+    letter-spacing: -3px;
+    opacity: 0.8;
+}
+.join2{
+    margin-right: 260px;
+    padding: 7px 0 0 10px;
+    height: 40px;
+    background-color: rgb(0, 161, 0);
+    color: white;
+}
+.last{
+    margin-top: 50px;
+}
+.list2{
+    display: block;
+    
+}
+.last1{
+    margin-left:22px ;
+}
+.fa-check{
+    
+
+}
+
